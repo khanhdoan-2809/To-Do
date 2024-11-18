@@ -6,4 +6,3 @@
 ## Cognito
 ## EF
 
-## DynamoDB
